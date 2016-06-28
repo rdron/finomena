@@ -14,7 +14,6 @@ import javax.ws.rs.core.Response.StatusType;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
-import org.springframework.stereotype.Component;
 
 import com.game.finomena.domain.Game;
 import com.game.finomena.domain.MoveTuple;
@@ -24,7 +23,7 @@ import com.game.finomena.domain.persistence.PersistenceServiceImpl;
 
 
 
-@Component
+
 @Path("/request")
 public class GameService {
 
