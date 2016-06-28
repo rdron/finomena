@@ -28,6 +28,7 @@ There are 4 actions -
   4. request/move     - request to make a move - success/failure depends on the constraints as given in requirements
 
 
-  The below requirement is best implemented on the frontend. 
+  The below requirement is best implemented on the frontend.
+  
   --Each player can hover over the board and squares will light up with their assigned color
 
