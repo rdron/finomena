@@ -8,9 +8,5 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/home/ron/spring-framework-4.2.1.RELEASE/libs/spring-beans-4.2.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/home/ron/spring-framework-4.2.1.RELEASE/libs/spring-context-4.2.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/home/ron/spring-framework-4.2.1.RELEASE/libs/spring-core-4.2.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/home/ron/spring-framework-4.2.1.RELEASE/libs/spring-web-4.2.1.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
